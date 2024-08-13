@@ -1,4 +1,4 @@
-# Data Scientist
+# Muhammad Abdullah Iqbal
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
