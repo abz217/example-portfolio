@@ -1,4 +1,4 @@
-# Data Scientist
+# 2nd Year BSc (Hons) Business Information Technology
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
